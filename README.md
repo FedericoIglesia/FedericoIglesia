@@ -9,7 +9,10 @@ I'm Federico and i'm a Full Stack web dev. Welcome to my github page!
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FedericoIglesia"/>
 
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/federicojiglesia/)
+
+Contact me: [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/federicojiglesia/)
+
+
 
 
 
