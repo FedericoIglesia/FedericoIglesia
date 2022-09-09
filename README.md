@@ -20,7 +20,19 @@ Contact me:
 <br>
 <br>
 
+Projects:
 
+
+
+<table>
+    <tbody>
+        <tr>
+            <td><img src="https://user-images.githubusercontent.com/85205823/189451007-7730ea3e-30aa-4c52-8869-708b42eb5985.gif" width="490">
+</td>
+           <td><img src="https://user-images.githubusercontent.com/85205823/189452474-4a81b7c1-dbfd-4034-8c2d-6f64eedde225.gif" width="490"></td>
+        </tr>
+    </tbody>
+</table>
 
 A few technologies i use: 
 
