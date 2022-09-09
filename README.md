@@ -11,7 +11,8 @@ I'm Federico and i'm a Full Stack web dev. Welcome to my github page!
 
 
 Contact me: 
-<br>
+
+
 <a href="https://www.linkedin.com/in/zluvsand/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
