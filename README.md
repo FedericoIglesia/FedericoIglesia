@@ -22,8 +22,8 @@ Contact me:
 
 Projects:
 
-<img src="https://user-images.githubusercontent.com/85205823/189451007-7730ea3e-30aa-4c52-8869-708b42eb5985.gif" width="490">
-<img src="https://user-images.githubusercontent.com/85205823/189452474-4a81b7c1-dbfd-4034-8c2d-6f64eedde225.gif" width="490"></td>
+<img src="https://user-images.githubusercontent.com/85205823/189451007-7730ea3e-30aa-4c52-8869-708b42eb5985.gif" width="500">
+<img src="https://user-images.githubusercontent.com/85205823/192325244-1e46ba81-e6da-4f26-b3f0-ff3fd068a8eb.gif" width "450">
 
 
 A few technologies i use: 
