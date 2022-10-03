@@ -8,7 +8,7 @@ I'm Federico and i'm a Full Stack web dev. Welcome to my github page!
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FedericoIglesia"/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=FedericoIglesia&theme=minimal">
+
 
 
 
@@ -54,6 +54,7 @@ My tech stack:
 <!--
 **FedericoIglesia/FedericoIglesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://activity-graph.herokuapp.com/graph?username=FedericoIglesia&theme=minimal">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
