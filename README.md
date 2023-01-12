@@ -3,14 +3,13 @@
 I'm Federico and i'm a Full Stack web dev. Welcome to my github page!
 
 <img src="[https://github-readme-stats.vercel.app/api?username=Federicoiglesia&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=FedericoIglesia&count_private=true&show_icons=true&theme=dark)"/>
-![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedericoIglesia&count_private=true&show_icons=true&theme=dark)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Federicoiglesia&layout=compact"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FedericoIglesia"/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedericoIglesia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
