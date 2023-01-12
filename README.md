@@ -10,6 +10,8 @@ I'm Federico and i'm a Full Stack web dev. Welcome to my github page!
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FedericoIglesia"/>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedericoIglesia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
