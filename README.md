@@ -3,7 +3,7 @@
 I'm Federico and i'm a Full Stack web dev. Welcome to my github page!
 
 <img src="https://github-readme-stats.vercel.app/api?username=FedericoIglesia&show_icons=true&theme=dark"/>
-
+![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedericoIglesia&count_private=true&show_icons=true&theme=dark)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FedericoIglesia&layout=compact"/>
 
