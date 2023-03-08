@@ -30,6 +30,8 @@ Projects:
 <img src="https://user-images.githubusercontent.com/85205823/192325244-1e46ba81-e6da-4f26-b3f0-ff3fd068a8eb.gif" width="600">
 <img src="https://user-images.githubusercontent.com/85205823/192326604-e28f6f01-cc52-4611-b3cf-4793de6b5a9c.gif" width="600"></td>
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/85205823/223710952-d58c2224-5251-47dc-871b-6562a361d19e.gif)
+
 My tech stack: 
 
 
